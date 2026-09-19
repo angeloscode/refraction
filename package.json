@@ -1,0 +1,15 @@
+{
+  "name": "refraction",
+  "private": true,
+  "version": "0.0.1",
+  "packageManager": "pnpm@9.12.0",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.14",
+    "turbo": "^2.11.2"
+  }
+}
